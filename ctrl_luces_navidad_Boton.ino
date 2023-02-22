@@ -25,8 +25,8 @@ int control = LOW;
 
 
 // datos para conectarnos a nuestra red wifi
-const char *ssid     = "VTR-0093521";
-const char *password = "qsg6xvvwLyQf";
+const char *ssid     = "El nombre del WIFI";
+const char *password = "Clave del wifi";
 
 int hora = 0 ;
 int minuto = 0;
